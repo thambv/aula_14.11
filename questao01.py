@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 df = pd.DataFrame({
-    'nomeServidor': ['Adriana', 'Monica', 'Samara'],
-    'salario': [1200,3000,5000]
+    'nomeServidor': ['Thamires', 'Carolini', 'Pryscilla'],
+    'salario': [4000,8000,8000]
 })
 
 st.write("Criando uma tabela!")
